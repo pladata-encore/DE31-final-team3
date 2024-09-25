@@ -3,7 +3,7 @@
 ## 개요
 **TechMap IT**는 수많은 채용 사이트들에서 여러 공고들을 수집하고 분석해 여러 공고들과 함께 특정 업무 분야에 대해서 실제로 각광받거나 많이 사용되는 기술 스택의 목록을 제시하는 시스템을 구성하기 위한 프로젝트입니다.
 
-이 프로젝트는 [TechMap IT](https://github.com/S0rrow/FTP5.git/)의 발표용 퍼블릭 레포지토리입니다.
+이 프로젝트는 [TechMap IT](https://github.com/S0rrow/FPT5.git)의 발표용 퍼블릭 레포지토리입니다.
 
 ## Abstract
 
